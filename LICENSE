@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 VesuvianHector
+Copyright (c) 2020 VesuvianHecktor
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11,6 +11,13 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+This software uses the following modules:
+*Art        https://pypi.org/project/art/
+*tqdm       https://github.com/tqdm/tqdm/blob/master/LICENCE
+*Zipfile    (Part of the Standard python libary) https://docs.python.org/3/library/zipfile.html
+*Itertools  (Standard Python Libary) https://docs.python.org/3/library/itertools.html
+The Licensing to these modules can be found by looking on the appropriate links unless they're part of 
+the pre installed python libary in which case their linked to the Documentation page.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
