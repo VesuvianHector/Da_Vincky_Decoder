@@ -3,7 +3,7 @@ import zipfile
 from tqdm import tqdm
 from itertools import chain, product
                                                                  
-
+#I had a full commented version but i accidently deleted it i will be reduing that over the next few days
 
 #Made by JTH/Vesuvian Hecktor
 #Runs either very fast or very slow idk why
