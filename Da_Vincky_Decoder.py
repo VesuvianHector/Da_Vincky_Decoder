@@ -98,7 +98,7 @@ print("Welcome to The Da Vincky Decoder\nMade by JTH/Vesuvian Hecktor")
 print("This bruteforcer is just the basline for a zip brute forcer using the folowing modules \n *zipfile \n *tqdm \n *Itertools \n *art \nPlease make sure you have these updated and installed")
 # Body and Selection
 Body()
-Fuck you
+
 
 
 
